@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/431107444_10225722652478571_4808490804153240107_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Yf4GeY4CIA0AX-9kdPs&_nc_ht=scontent-vie1-1.xx&oh=00_AfCM7FDB716KTqh99fblYBVKv2jE8RQ6xPZjpm_v4wxr6w&oe=65F1FE51)
+[![MasterHead](https://files.oaiusercontent.com/file-l52ywBuqFXwmNmJPlBf2Xjvw?se=2024-03-09T17%3A02%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc0922ff1-7093-47af-b8df-0a65a4e27711.webp&sig=pijMrCSR9oNIfId76RFNv9eraMXmpeHNteOYGDu9mGk%3D)
 <h3 align="center">A passionate DevOps developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Java, python**
