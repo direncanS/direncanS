@@ -21,3 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=direncans&show_icons=true&locale=en&layout=compact" alt="direncans" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=direncans&" alt="direncans" /></p>
+
+![snake gif](https://github.com/direncanS/direncanS/blob/output/github-contribution-grid-snake.gif)
