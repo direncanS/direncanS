@@ -1,29 +1,61 @@
-![MasterHead](https://files.oaiusercontent.com/file-CN5kZXGNdFkZy1nmRAtBofVU?se=2024-03-10T20%3A28%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2cb73153-3bf8-4bc1-8598-3249d47f109b.webp&sig=i0wbu5Kj2GituykYUidlTAr8KZd/kbeSE3YTZUlLmzs%3D)
-<h3 align="center">A passionate DevOps developer from Turkey</h3>
+# Hi, I'm Direncan
 
-- 🔭 I’m currently working on **Java, python**
+Final-year Computer Science student in Vienna, focused on backend development, DevOps, and building practical software systems.
 
-- 🌱 I’m currently learning **python**
+I enjoy working on projects that combine clean architecture, reliable backend logic, deployment workflows, and real-world usability.
 
-- 💬 Ask me about **java, docker, AWS**
+## About Me
 
-- 📫 How to reach me **direncansahin@gmail.com**
+- Final-year BSc Computer Science student at FH Technikum Wien
+- Based in Vienna, Austria
+- Interested in Backend Development, DevOps, Cloud, and Software Engineering
+- Currently building practical projects with a focus on architecture, deployment, and maintainability
+- Open to Junior Backend, DevOps, and Software Engineering opportunities
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/direncansahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="direncansahin" height="30" width="40" /></a>
-<a href="https://instagram.com/direncan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="direncan_" height="30" width="40" /></a>
-</p>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+**Languages**  
+Java, Python, JavaScript, SQL
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=direncans&show_icons=true&locale=en&layout=compact" alt="direncans" /></p>
+**Backend & Web**  
+Spring Boot, REST APIs, PostgreSQL, Next.js
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=direncans&" alt="direncans" /></p>
+**DevOps & Tools**  
+Docker, Git, Linux, Jenkins, AWS, Postman, Supabase
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/direncanS/direncanS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/direncanS/direncanS/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/direncanS/direncanS/output/github-contribution-grid-snake.svg">
-</picture>
+## Selected Projects
+
+### Chickenplus Inventory & Order Tracking MVP
+A practical inventory and supplier order tracking system designed for restaurant operations.
+
+**Focus:**  
+Mobile-friendly workflows, checklist management, order tracking, Excel export, structured backend logic
+
+**Tech:**  
+Next.js, Supabase, PostgreSQL, Tailwind, shadcn/ui
+
+### Invoice Tracking System
+A local-first invoice tracking and parsing system designed for operational use.
+
+**Focus:**  
+Role-based workflows, PDF processing, structured data extraction, Dockerized deployment
+
+**Tech:**  
+Next.js, FastAPI, PostgreSQL, Docker
+
+### Weather Archive
+A web application for exploring historical weather data with webcam-based visual context.
+
+**Focus:**  
+API integration, data presentation, system design, documentation
+
+## What I’m Focusing On
+
+- Building production-oriented student projects
+- Strengthening backend engineering skills
+- Improving DevOps and deployment workflows
+- Preparing for full-time software roles after graduation
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/direncansahin/
