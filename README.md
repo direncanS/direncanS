@@ -55,7 +55,3 @@ API integration, data presentation, system design, documentation
 - Strengthening backend engineering skills
 - Improving DevOps and deployment workflows
 - Preparing for full-time software roles after graduation
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/direncansahin/
