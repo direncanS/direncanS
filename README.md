@@ -46,4 +46,4 @@ C | POSIX Sockets | Pthreads | Makefile
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/direncan-sari/) · direncan.sari@gmail.com
+[LinkedIn](https://www.linkedin.com/in/direncansahin/) · direncansahin@gmail.com
