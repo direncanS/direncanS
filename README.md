@@ -1,57 +1,49 @@
 # Hi, I'm Direncan
 
-Final-year Computer Science student in Vienna, focused on backend development, DevOps, and building practical software systems.
-
-I enjoy working on projects that combine clean architecture, reliable backend logic, deployment workflows, and real-world usability.
-
-## About Me
-
-- Final-year BSc Computer Science student at FH Technikum Wien
-- Based in Vienna, Austria
-- Interested in Backend Development, DevOps, Cloud, and Software Engineering
-- Currently building practical projects with a focus on architecture, deployment, and maintainability
-- Open to Junior Backend, DevOps, and Software Engineering opportunities
+Final-year CS student in Vienna building backend systems, data pipelines, and cloud infrastructure.
 
 ## Tech Stack
 
-**Languages**  
-Java, Python, JavaScript, SQL
+**Languages:** Python, Go, Java, C, JavaScript/TypeScript, SQL
 
-**Backend & Web**  
-Spring Boot, REST APIs, PostgreSQL, Next.js
+**Backend & Data:** FastAPI, Spring Boot, REST APIs, PostgreSQL, Supabase, Pandas, Scrapy, Celery
 
-**DevOps & Tools**  
-Docker, Git, Linux, Jenkins, AWS, Postman, Supabase
+**DevOps & Cloud:** Docker, AWS, Jenkins, Linux, Git, CI/CD
 
-## Selected Projects
+**Frontend:** Next.js, React, Tailwind
 
-### Chickenplus Inventory & Order Tracking MVP
-A practical inventory and supplier order tracking system designed for restaurant operations.
+## Featured Projects
 
-**Focus:**  
-Mobile-friendly workflows, checklist management, order tracking, Excel export, structured backend logic
+### [Chickenplus Inventory](https://github.com/direncanS/chickenplus-inventory)
+Full-stack inventory and supplier order tracking system for restaurant operations. Mobile-first UI with checklist workflows, order management, and Excel export.
 
-**Tech:**  
-Next.js, Supabase, PostgreSQL, Tailwind, shadcn/ui
+Next.js | Supabase | PostgreSQL | Tailwind
 
-### Invoice Tracking System
-A local-first invoice tracking and parsing system designed for operational use.
+### [Web Crawler & Analytics Platform](https://github.com/direncanS/Individual-Web-Crawler)
+Distributed web crawling system with automated data extraction, analysis pipeline, and visualization dashboard. Handles concurrent scraping with task queuing.
 
-**Focus:**  
-Role-based workflows, PDF processing, structured data extraction, Dockerized deployment
+Python | Scrapy | Celery | Docker | JavaScript
 
-**Tech:**  
-Next.js, FastAPI, PostgreSQL, Docker
+### [Weather Archive Microservices](https://github.com/direncanS/webcam-api-main)
+Three-service backend architecture for historical weather data with webcam integration. Each service independently deployable with its own API.
 
-### Weather Archive
-A web application for exploring historical weather data with webcam-based visual context.
+Go | REST | Docker | Microservices --- [webcam-api](https://github.com/direncanS/webcam-api-main) | [video-service](https://github.com/direncanS/video-service-main) | [user-api](https://github.com/direncanS/user-api-main)
 
-**Focus:**  
-API integration, data presentation, system design, documentation
+### [TW-Mailer Pro](https://github.com/direncanS/TW-Mailer-Pro-Version)
+Multi-threaded client-server mail system with socket programming, concurrent connection handling, and LDAP-style directory lookups.
 
-## What I’m Focusing On
+C | POSIX Sockets | Pthreads | Makefile
 
-- Building production-oriented student projects
-- Strengthening backend engineering skills
-- Improving DevOps and deployment workflows
-- Preparing for full-time software roles after graduation
+---
+
+[TourPlanner](https://github.com/direncanS/TourPlanner) -- Java desktop application for route planning with map integration, PDF reports, and JPA/PostgreSQL persistence.
+
+## Currently Working On
+
+- Building an invoice tracking system with PDF parsing and role-based workflows
+- Expanding data engineering and ML pipeline skills
+- Preparing for Data Scientist / Backend / DevOps roles
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/direncan-sari/) · direncan.sari@gmail.com
