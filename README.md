@@ -1,6 +1,6 @@
 # Direncan Sahin
 
-**Final-year Computer Science student in Vienna** — building backend systems, full-stack applications, and data pipelines.
+**Master student in Vienna** — building backend systems, full-stack applications, and data pipelines.
 
 ---
 
