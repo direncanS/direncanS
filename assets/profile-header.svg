@@ -1,29 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-labelledby="title desc">
-  <title id="title">Direncan Sahin</title>
-  <desc id="desc">A terminal-inspired header for Direncan Sahin. Backend systems, full-stack applications, and data pipelines.</desc>
-  <rect width="900" height="270" rx="10" fill="#101412"/>
-  <rect x=".5" y=".5" width="899" height="269" rx="10" fill="none" stroke="#303b32"/>
-  <path d="M1 43H899" stroke="#303b32"/>
-  <circle cx="23" cy="22" r="4" fill="#a6b77e"/>
-  <circle cx="40" cy="22" r="4" fill="#7f9986"/>
-  <circle cx="57" cy="22" r="4" fill="#46584b"/>
-  <g font-family="Consolas, 'Liberation Mono', monospace">
-    <text x="80" y="27" fill="#9ca99c" font-size="13">direncan@github: ~</text>
-    <text x="858" y="27" text-anchor="end" fill="#829581" font-size="12">VIENNA / AT</text>
-    <g fill="#a9bc87" font-size="16" xml:space="preserve">
-      <text x="39" y="91">██████╗ ███████╗</text>
-      <text x="39" y="113">██╔══██╗██╔════╝</text>
-      <text x="39" y="135">██║  ██║███████╗</text>
-      <text x="39" y="157">██║  ██║╚════██║</text>
-      <text x="39" y="179">██████╔╝███████║</text>
-      <text x="39" y="201">╚═════╝ ╚══════╝</text>
-    </g>
-    <path d="M228 74V207" stroke="#303b32"/>
-    <text x="263" y="91" fill="#8fa38c" font-size="16">~ whoami</text>
-    <text x="261" y="146" fill="#e5e8d6" font-size="46" font-weight="700" letter-spacing="-2">Direncan Sahin<tspan fill="#b7c58e">.</tspan></text>
-    <text x="264" y="180" fill="#b7c58e" font-size="18">backend / full-stack / data</text>
-    <text x="264" y="210" fill="#9ca99c" font-size="15">From useful ideas to working systems.</text>
-    <text x="39" y="249" fill="#6f836f" font-size="12">~/direncanS</text>
-    <text x="858" y="249" text-anchor="end" fill="#7f9986" font-size="12">code · learn · build</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
+<title id="title">Developer — build. learn. repeat.</title>
+<desc id="desc">A minimal charcoal and sage developer banner with a code symbol.</desc>
+<defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#c3d2a4" stroke-opacity=".035"/></pattern></defs>
+<rect width="900" height="210" rx="12" fill="#111713"/>
+<rect width="900" height="210" rx="12" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="899" height="209" rx="12" fill="none" stroke="#2c3830"/>
+<path d="M214 48V163" stroke="#344136"/>
+<g font-family="Consolas, 'Liberation Mono', monospace">
+<text x="46" y="130" font-size="68" font-weight="400" fill="#bfcca6">&lt;<tspan fill="#819e88">/</tspan>&gt;</text>
+<text x="252" y="70" font-size="13" letter-spacing="4" fill="#9daf93">DEVELOPER</text>
+<text x="249" y="126" font-size="43" font-weight="700" letter-spacing="-1.5" fill="#e3e8d7">build<tspan fill="#afc292">.</tspan> learn<tspan fill="#afc292">.</tspan> repeat<tspan fill="#afc292">.</tspan></text>
+<text x="252" y="163" font-size="15" fill="#9ca99c">turning ideas into useful things</text>
+</g>
+<path d="M40 190H860" stroke="#2c3830"/>
 </svg>
